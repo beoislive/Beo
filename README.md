@@ -1,2 +1,2 @@
-# BEO AI
-ChatGPT-style AI app
+BEO AI
+A ChatGPT-style AI web app.
